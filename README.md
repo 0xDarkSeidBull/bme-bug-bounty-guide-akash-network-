@@ -36,7 +36,7 @@ export AKASH_GAS_PRICES=0.025uakt
 ### **0.3 Create Wallet**
 ```bash
 akash keys add bme-main
-# MNEMONIC: bulb convince word uncle smooth sentence smile pill fork time game polar half return sting apology misery shell reject boil slight merge draw burst
+# MNEMONIC: your_mnemonic
 
 akash keys show bme-main -a
 # Address: akash1023uh7436y49xyhe0d8rcgwtzeh6akuhx2ecte
