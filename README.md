@@ -1039,5 +1039,5 @@ https://forms.gle/MH1KxhNmoJxzMRfz9
 
 ---
 
-**Guide by: DarkSidBull**  
+**Guide by: DarkSeidBull**  
 **Discord: Join for Circuit Breaker updates on Feb 24!** 🔥
