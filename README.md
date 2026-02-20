@@ -1,5 +1,5 @@
 
-## 🚀 **AKASH BME TESTNET - ULTIMATE GUIDE **
+## 🚀 **AKASH BME TESTNET - ULTIMATE GUIDE**
 <img width="1156" height="590" alt="image" src="https://github.com/user-attachments/assets/13f9408c-5b3b-45c1-9dab-c299593aabd6" />
 
 ---
